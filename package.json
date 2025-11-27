@@ -1,6 +1,6 @@
 {
   "name": "country-utils-code-vs-name",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Country utilities with ISO alpha-2, alpha-3, country names, and dial codes",
   "main": "index.js",
   "types": "index.d.ts",

@@ -1,0 +1,17 @@
+{
+  "name": "country-utils-code-to-name",
+  "version": "1.0.0",
+  "description": "Country utilities with ISO alpha-2, alpha-3, country names, and dial codes",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "country",
+    "iso-3166",
+    "dial-code",
+    "react-native",
+    "world-countries",
+    "Country codes to country names"
+  ],
+  "author": "manu5h",
+  "license": "MIT"
+}

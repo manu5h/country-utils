@@ -22,9 +22,21 @@ Bash
 
 yarn add country-utils-code-vs-name
 
-📖 Usage
+//----------------------------------📖 Usage---------------------------------//
 Importing the Package
+
 You can use a default import, which is recommended for React Native projects:
+
+import countryUtils from "country-utils-code-vs-name";
+
+Quick Examples
+Goal	Code	Output
+Name from Alpha-2	countryUtils.getCountryName("US");	"United States"
+Alpha-2 from Name	countryUtils.getCountryCode("Canada");	"CA"
+Dial Code Lookup	countryUtils.getDialCode("IN");	"+91"
+Name from Alpha-3	countryUtils.getCountryNameFromCode3("DEU");	"Germany"
+
+-------------------------------------------------------------------------------
 
 
 🤝 Contributing
